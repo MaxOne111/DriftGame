@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7136244edf3e8dd4eb705c7472b57355, type: 3}
+  m_Name: BlueWave_Shop
+  m_EditorClassIdentifier: 
+  _Name: Blue Wave
+  _Price: 1000
+  _Car: {fileID: 8257787862305646705, guid: dd8fbde64809e6c4b8e6badd35025030, type: 3}
+  _Model: {fileID: 1981414771564926898, guid: 28dad778eca508b4fb0649e0ed01120f, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00e5ae10297d76b42b215b3655564f64, type: 3}
+  m_Name: Redfall_Charcs
+  m_EditorClassIdentifier: 
+  _Max_Speed: 15000
+  _Drift_Force: 18
+  _Max_Reverse_Speed: 45
+  _Acceleration_Multiplier: 8
+  _Max_Steering_Angle: 27
+  _Steering_Speed: 0.5
+  _Brake_Force: 350
+  _Deceleration_Multiplier: 4

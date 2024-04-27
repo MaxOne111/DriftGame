@@ -1,0 +1,28 @@
+Documentation of 3D Stylish Showroom Pack
+
+In this Environment, we have created all the models separatedly, all the models are reuseable and it's depends upon us that how we can use and place them in the environment.
+we have created Car showroom Environment. Props include Led Bulb, jack stand, car stage with outer rounded circle, tube bulb, showroom stylish roof, showroom ground, showroom stylish front and side walls and small rounded pillers etc.
+Models are made with only 3 textures. The Complete 3D Stylish Showroom Pack consists of different objects created individually, so you can use them to create an intuitive and eye-catching user interface for your 3D game or animated video. The vectors can be edited and placed at any scene in the game/video to give it a more defined look.
+
+we have different folders:
+
+1) Material:
+	Models are made with only 4 materials.
+2) Models: 
+	In this models folder you will see different type of models inside it.
+3) Prefabs: 
+	 All the necessary objects of Stylish Showroom pack are placed in prefabs folder.
+4) Scene: 
+	There you will see demo scenes of envornment.
+5) Texture:
+	Models are made with only 3 textures.
+6) Animation:
+	All the animations are placed in this folder.
+
+Note:
+Car will not be included in this pacakage. car is just for presentation images.
+All the prefabs are created, you can use each prefabs according to your environment. you just need to drag and drop each prefab wherever you want. you can create a big environment for your 3d games and 3d animation. Each objects are scaleable, you can transform and rotate every object.
+
+
+
+ 
